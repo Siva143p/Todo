@@ -105,7 +105,7 @@ const Todo = () => {
       <div className="Note--to--user">
         <small>Note:</small>
         <p style={{ marginTop: ".3em" }}>1.Single Tap to StrickOut your TASK</p>
-        <p>2.Double Tap to StrickOut your TASK</p>
+        <p>2.Double Tap to Delete your TASK</p>
       </div>
     </div>
   );
